@@ -1,5 +1,9 @@
 # Tax Collector or Tax Avoider? An Investigation of Intergovernmental Agency Conflicts
 
+
+
+The link of paper: [Tax Collector or Tax Avoider? An Investigation of Intergovernmental Agency Conflicts | The Accounting Review | American Accounting Association (aaahq.org)](https://publications.aaahq.org/accounting-review/article-abstract/92/2/247/3882/Tax-Collector-or-Tax-Avoider-An-Investigation-of?redirectedFrom=fulltext)
+
 ## Summary
 
 This paper investigates the balance between tax collection and tax avoidance motivations among local governments in China, against the backdrop of the 2002 tax sharing reform. By analyzing this reform, the study reveals how intergovernmental agency conflicts impact local governments' control over corporate tax avoidance behaviors. 
