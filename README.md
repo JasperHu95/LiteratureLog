@@ -16,7 +16,7 @@ I will disassemble the literature I have read into reading notes. On one hand, t
 
 Tang, T., Mo, P. L. L., & Chan, K. H. (2017). Tax Collector or Tax Avoider? An Investigation of Intergovernmental Agency Conflicts. The Accounting Review, 92(2), 247–270. https://www.jstor.org/stable/26550652
 
-Link of paper and notes: https://github.com/JasperHu95/LiteratureLog/tree/main/ACCT/Tax_Collector_or_Tax_Avoider
+Notes: [https://github.com/JasperHu95/LiteratureLog/tree/main/ACCT/Tax_Collector_or_Tax_Avoider](https://github.com/JasperHu95/LiteratureLog/blob/main/ACCT/Tax_Collector_or_Tax_Avoider.md)
 
 **Abstract:**
 
