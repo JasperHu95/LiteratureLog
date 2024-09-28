@@ -22,4 +22,4 @@ The link to Accounting literature: [LiteratureLog/ACCT at main · JasperHu95/Lit
 The link to Economics literature: [LiteratureLog/ECON at main · JasperHu95/LiteratureLog (github.com)](https://github.com/JasperHu95/LiteratureLog/tree/main/ECON)
 
 
-The link to Mothdology literature: https://github.com/JasperHu95/LiteratureLog/tree/main/Methodology
+The link to Methodology literature: [LiteratureLog/Methodology at main · JasperHu95/LiteratureLog (github.com)](https://github.com/JasperHu95/LiteratureLog/tree/main/Methodology)
