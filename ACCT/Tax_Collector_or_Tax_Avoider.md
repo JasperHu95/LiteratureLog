@@ -2,7 +2,7 @@
 
 
 
-The link of paper: [Tax Collector or Tax Avoider? An Investigation of Intergovernmental Agency Conflicts | The Accounting Review | American Accounting Association (aaahq.org)](https://publications.aaahq.org/accounting-review/article-abstract/92/2/247/3882/Tax-Collector-or-Tax-Avoider-An-Investigation-of?redirectedFrom=fulltext)
+The link: [Tax Collector or Tax Avoider? An Investigation of Intergovernmental Agency Conflicts | The Accounting Review | American Accounting Association (aaahq.org)](https://publications.aaahq.org/accounting-review/article-abstract/92/2/247/3882/Tax-Collector-or-Tax-Avoider-An-Investigation-of?redirectedFrom=fulltext)
 
 ## Summary
 

@@ -1,6 +1,9 @@
 # The past, present, and future of China-related accounting research
 
+The link: [The past, present, and future of China-related accounting research - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165410122000672)
+
 ## 1. Introduction
+
 - **Background and Significance**: Over the past 25 years, China's rapid economic development has attracted considerable scholarly attention. Accounting scholars have leveraged the unique data and environment of the Chinese market to conduct extensive empirical research.
 - **Research Objectives**: To explore the rise, current state, and future directions of China-related accounting research, providing a systematic review and guidance for future research.
 

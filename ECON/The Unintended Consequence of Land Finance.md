@@ -85,9 +85,8 @@ To ensure the robustness of the results, the study employs various methods:
    - Tests the parallel trend assumption to ensure that treatment and control groups have similar trends before the exogenous shocks, verifying the validity of the DID analysis.
    - Conducts placebo tests by randomly selecting pseudo-treatment and pseudo-control groups to verify the non-randomness of the observed results.
 
-Through these robustness checks, the study ensures the reliability and validity of its conclusions.
-
 ## Empirical Results
+
 1. **Relationship between Land Transfer Revenue Reduction and Corporate Tax Avoidance**: Empirical results show that a reduction in land transfer revenue significantly decreases corporate tax avoidance. This result is robust across various model specifications and alternative samples.
 2. **Mechanism of Tax Enforcement Intensity**: Further analysis finds that the reduction in land transfer revenue leads to decreased corporate tax avoidance through strengthened tax enforcement. Increased tax audits and the number of tax officers support this mechanism.
 3. **Cross-Sectional Analysis**: The impact of land transfer revenue reduction on corporate tax avoidance is more pronounced in cities with higher land finance dependence, greater government intervention, and stronger political promotion incentives. Politically connected firms are less affected.

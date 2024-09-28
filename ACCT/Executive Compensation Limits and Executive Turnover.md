@@ -1,6 +1,6 @@
 # Executive Compensation Limits and Executive Turnover
 
-The link of paper: [Executive Compensation Limits and Executive Turnover | Management Science (informs.org)](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.4812)
+The link: [Executive Compensation Limits and Executive Turnover | Management Science (informs.org)](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.4812)
 
 ## Summary
 This paper investigates the consequences of limiting executive compensation on voluntary executive turnover and firm value by examining a Chinese government policy that restricts executive pay at central state-owned enterprises (CSOEs). The findings suggest that the policy led to an increase in voluntary executive turnover, particularly among higher-quality executives, resulting in firm value losses. This highlights the critical role of executive compensation in retaining talent and the potential negative impacts of regulatory interventions on firm value.
