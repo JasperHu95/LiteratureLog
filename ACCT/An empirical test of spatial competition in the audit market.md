@@ -55,7 +55,7 @@ The authors use an OLS regression model to test their hypotheses. The primary re
   - $\text{Loss}$: Indicator variable for whether the client incurred a loss.
   - $\text{Ye}$: Indicator for whether the fiscal year-end is December 31.
   - $\text{Switch}$: Indicator for whether the client switched auditors.
-  - $`\text{Alignment}_{\text{client\_national}}`$: National-level auditor-client alignment, measured as national industry specialization.
+  - $\text{Alignment}_{\text{client\_national}}$: National-level auditor-client alignment, measured as national industry specialization.
 
 ## Robustness Checks
 
