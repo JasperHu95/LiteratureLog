@@ -54,9 +54,11 @@ To ensure the robustness of the results, the authors conduct several additional 
 
 1. **Change Model:** 
    This model tests whether changes in geographic distance from year $t-1$ to year $t$ affect the dependent variables. The equation is:
-   
 
-   $$\Delta\text{Attend}_{fit} = \beta_0 + \beta_1 \times \Delta\text{Distance}_{fit} + \sum_j \beta_{2j} \times \Delta\text{Control}_{j,fit} + \epsilon_{fit}$$
+
+   ```math
+   text{Attend}_{fit} = \beta_0 + \beta_1 \times \Delta\text{Distance}_{fit} + \sum_j \beta_{2j} \times \Delta\text{Control}_{j,fit} + \epsilon_{fit}
+   ```
 
    
    The results confirm that geographic distance negatively affects meeting attendance and dissenting opinions.
@@ -64,7 +66,9 @@ To ensure the robustness of the results, the authors conduct several additional 
 3. **Difference-in-Differences (DID) Model:** 
    To address the potential endogeneity of relocations, the authors employ a DID approach. The model is:
    
-   $$\text{Attend}_{fit} = \beta_0 + \beta_1 \times \text{Distant}_{fit} \times \text{Post}_{t} + \beta_2 \times \text{Distant}_{fit} + \beta_3 \times \text{Post}_{t} + \sum_j \beta_{4j} \times \text{Control}_{j,fit} + \epsilon_{fit}$$
+   ```math
+   text{Attend}_{fit} = \beta_0 + \beta_1 \times \text{Distant}_{fit} \times \text{Post}_{t} + \beta_2 \times \text{Distant}_{fit} + \beta_3 \times \text{Post}_{t} + \sum_j \beta_{4j} \times \text{Control}_{j,fit} + \epsilon_{fit}
+   ```
    
    Where:
    
