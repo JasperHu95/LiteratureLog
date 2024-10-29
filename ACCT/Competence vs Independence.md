@@ -37,9 +37,9 @@ The study uses data from Chinese listed companies spanning 2005 to 2018. China o
 
 The hypothesis is tested using a linear probability model where financial irregularities ($\text{FinIrreg}$) are regressed on the auditors' social networks and control variables. The regression equation is as follows:
 
-$$
+```math
 \text{FinIrreg}_{it} = \alpha + \beta_1 \text{Network}_{it} + \gamma \text{Controls}_{it} + \text{Fixed Effects} + \epsilon_{it}
-$$
+```
 
 Where:
 - $\text{FinIrreg}_{it}$ is a binary variable for financial irregularities,
