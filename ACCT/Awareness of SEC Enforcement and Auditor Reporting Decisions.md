@@ -41,11 +41,6 @@ $$
 \text{Prob}(GoingConcern) = \alpha + \beta_1 \text{Auditor Proximity} + \beta_2 \text{Auditor AAER}_{t-1} + \beta_3 \text{Non-Auditor AAER}_{t-1} + \gamma X + \text{Fixed Effects} + \varepsilon
 $$
 
-
-$$
-\text{Prob}(GoingConcern) = \alpha + \beta_1 \text{Auditor Proximity} + \beta_2 \text{Auditor AAER}_{t-1} + \beta_3 \text{Non-Auditor AAER}_{t-1} + \gamma X + \text{Fixed Effects} + \varepsilon
-$$
-
 - **Dependent Variable**: 
   - $\text{GoingConcern}$: A binary variable indicating whether a first-time going-concern report is issued.
   
