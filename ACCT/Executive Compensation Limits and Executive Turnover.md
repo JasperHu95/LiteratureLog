@@ -29,13 +29,14 @@ The research employs a difference-in-difference (DiD) methodology to compare aff
 ### Regression Equation
 
 The primary regression equation used is:
-$$
+
+```math
 Y = \beta_0 + \beta_1 \text{CSOE} + \beta_2 \text{POST} + \beta_3 (\text{CSOE} \times \text{POST}) + \gamma \text{ControlVariables} + \epsilon
-$$
+```
 
 
 - **Dependent Variables**: 
-  - $ Y $: $\text{Ln(COMPEN)}$, $\text{TURNOVER}$, $\text{TOBIN'S Q}$
+  - $\text{Ln(COMPEN)}$, $\text{TURNOVER}$, $\text{TOBIN'S Q}$
 - **Key Independent Variables**:
   - **CSOE**: Dummy variable indicating whether the firm is a central state-owned enterprise.
   - **POST**: Dummy variable indicating the period after the policy implementation (post-2009).
