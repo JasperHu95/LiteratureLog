@@ -39,9 +39,9 @@ The research design centers around a regression analysis to test the effect of g
 ### Regression Equation
 The basic regression model is specified as:
 
-$$
+```math
 \text{Attend}_{fit} (\text{Opinion}_{fit}) = \beta_0 + \beta_1 \times \text{Distance}_{fit} + \sum_j \beta_{2j} \times \text{Control}_{j,fit} + \epsilon_{fit}
-$$
+```
 
 Where:
 - $\text{Attend}_{fit}$: The percentage of board meetings attended by ID $i$ in year $t$ for firm $f$.
