@@ -52,7 +52,7 @@ Rouen uses detailed compensation data from the **U.S. Bureau of Labor Statistics
    The explained employee pay is modeled as follows:
 
    ```math
-   \text{Mean Pay}_{i,j,t} = \alpha + \sum \beta_{\text{Est}} \cdot \text{Establishment Factors}_{i,j,t} + \sum \gamma_{\text{Macro}} \cdot \text{Macroeconomic Factors}_{i,j,t} + \sum \delta_{\text{Firm}} \cdot \text{Firm Factors}_{i,t-1} + \text{Industry Fixed Effects} + \text{Year Fixed Effects} + \epsilon 
+   text{Mean Pay}_{i,j,t} = \alpha + \sum \beta_{\text{Est}} \cdot \text{Establishment Factors}_{i,j,t} + \sum \gamma_{\text{Macro}} \cdot \text{Macroeconomic Factors}_{i,j,t} + \sum \delta_{\text{Firm}} \cdot \text{Firm Factors}_{i,t-1} + \text{Industry Fixed Effects} + \text{Year Fixed Effects} + \epsilon 
    ```
 
    Where:
