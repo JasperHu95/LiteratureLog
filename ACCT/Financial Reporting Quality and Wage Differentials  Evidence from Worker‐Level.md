@@ -35,18 +35,18 @@ These hypotheses build on literature that connects financial reporting quality t
 ### Regression Model
 The main regression model used is:
 
-$$
+```math
 \text{Ln(Wages}_{i,t}) = \beta_{\text{FRQ}} \times \text{Financial Reporting Quality}_{f(i,t),t-1} + \beta_f \times X_f(i,t) + \beta_i \times X_{i,t} + \theta_i + \psi_{f(i,t)} + \epsilon_{i,t}
-$$
+```
 
 Where:
-- $ \text{Ln(Wages}_{i,t}) $: Natural logarithm of the wages for worker $ i $ at time $ t $.
-- $ \text{Financial Reporting Quality}_{f(i,t),t-1} $: Measure of the firm-level financial reporting quality, lagged by one year.
-- $ X_f(i,t) $: Vector of firm-level characteristics (size, Tobin’s Q, leverage, return on assets).
-- $ X_{i,t} $: Vector of worker characteristics (age, experience, education).
-- $ \theta_i $: Worker fixed effects.
-- $ \psi_{f(i,t)} $: Firm fixed effects.
-- $ \epsilon_{i,t} $: Error term.
+- $\text{Ln(Wages}_{i,t})$: Natural logarithm of the wages for worker $i$ at time $t$.
+- $\text{Financial Reporting Quality}_{f(i,t),t-1}$: Measure of the firm-level financial reporting quality, lagged by one year.
+- $X_f(i,t)$: Vector of firm-level characteristics (size, Tobin’s Q, leverage, return on assets).
+- $X_{i,t}$: Vector of worker characteristics (age, experience, education).
+- $\theta_i$: Worker fixed effects.
+- $\psi_{f(i,t)}$: Firm fixed effects.
+- $\epsilon_{i,t}$: Error term.
 
 ### Variable Definitions
 - **Dependent Variable**: Wages (transformed using the natural logarithm).
