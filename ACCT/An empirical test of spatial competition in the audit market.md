@@ -1,7 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 # An Empirical Test of Spatial Competition in the Audit Market
 
 Link: [An empirical test of spatial competition in the audit market - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S016541011100070X)
