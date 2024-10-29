@@ -54,26 +54,29 @@ To ensure the robustness of the results, the authors conduct several additional 
 
 1. **Change Model:** 
    This model tests whether changes in geographic distance from year $t-1$ to year $t$ affect the dependent variables. The equation is:
+   
    $$
    \Delta\text{Attend}_{fit} = \beta_0 + \beta_1 \times \Delta\text{Distance}_{fit} + \sum_j \beta_{2j} \times \Delta\text{Control}_{j,fit} + \epsilon_{fit}
    $$
    
    The results confirm that geographic distance negatively affects meeting attendance and dissenting opinions.
    
-2. **Difference-in-Differences (DID) Model:** 
+3. **Difference-in-Differences (DID) Model:** 
    To address the potential endogeneity of relocations, the authors employ a DID approach. The model is:
+   
    $$
    \text{Attend}_{fit} = \beta_0 + \beta_1 \times \text{Distant}_{fit} \times \text{Post}_{t} + \beta_2 \times \text{Distant}_{fit} + \beta_3 \times \text{Post}_{t} + \sum_j \beta_{4j} \times \text{Control}_{j,fit} + \epsilon_{fit}
    $$
    
    Where:
+   
    - $\text{Distant}_{fit}$ equals 1 if the relocation increases the distance between ID $i$ and firm headquarters.
    - $\text{Post}_{t}$ equals 1 for years after the relocation.
    
-3. **Placebo Test:** 
+5. **Placebo Test:** 
    Random relocation years are assigned to each ID to test whether the results are spurious. The placebo test finds no significant results, supporting the validity of the main findings.
 
-4. **Effect of High-Speed Railways:** 
+6. **Effect of High-Speed Railways:** 
    The presence of high-speed railways ($\text{Rail}_{fit}$) between the ID's location and the firm headquarters is included as an additional variable. The study finds that high-speed railways mitigate the negative effects of geographic distance on meeting attendance.
 
 ## Empirical Results
