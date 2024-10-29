@@ -40,7 +40,7 @@ The research design centers around a regression analysis to test the effect of g
 The basic regression model is specified as:
 
 ```math
-\text{Attend}_{fit} (\text{Opinion}_{fit}) = \beta_0 + \beta_1 \times \text{Distance}_{fit} + \sum_j \beta_{2j} \times \text{Control}_{j,fit} + \epsilon_{fit}
+text{Attend}_{fit} (\text{Opinion}_{fit}) = \beta_0 + \beta_1 \times \text{Distance}_{fit} + \sum_j \beta_{2j} \times \text{Control}_{j,fit} + \epsilon_{fit}
 ```
 
 Where:
@@ -56,7 +56,7 @@ To ensure the robustness of the results, the authors conduct several additional 
    This model tests whether changes in geographic distance from year $t-1$ to year $t$ affect the dependent variables. The equation is:
    
    ```math
-   \Delta\text{Attend}_{fit} = \beta_0 + \beta_1 \times \Delta\text{Distance}_{fit} + \sum_j \beta_{2j} \times \Delta\text{Control}_{j,fit} + \epsilon_{fit}
+   Delta\text{Attend}_{fit} = \beta_0 + \beta_1 \times \Delta\text{Distance}_{fit} + \sum_j \beta_{2j} \times \Delta\text{Control}_{j,fit} + \epsilon_{fit}
    ```
    
    The results confirm that geographic distance negatively affects meeting attendance and dissenting opinions.
