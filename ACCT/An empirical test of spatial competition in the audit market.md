@@ -30,9 +30,9 @@ Hotelling’s (1929) model of spatial competition and its extensions, such as th
 ### Model Specification
 The authors use an OLS regression model to test their hypotheses. The primary regression equation is:
 
-$${}
+$$
 \text{LnFee} = \alpha_0 + \alpha_1 \text{Alignment}_{\text{client}} + \alpha_2 \text{Distance}_{\text{competitor}} + \alpha_3 \text{HerfIndex} + \alpha_4 \text{Size} + \alpha_5 \text{LnBu} + \alpha_6 \text{Foreign} + \alpha_7 \text{Cata} + \alpha_8 \text{Quick} + \alpha_9 \text{De} + \alpha_{10} \text{Roi} + \alpha_{11} \text{Loss} + \alpha_{12} \text{Ye} + \alpha_{13} \text{Year} + \alpha_{14} \text{Switch} + \alpha_{15} \text{Alignment}_{\text{client\_national}} + \varepsilon
-$${}
+$$
 
 ### Variables
 
