@@ -38,7 +38,7 @@ The sample consists of 14,354 firm-year observations of financially distressed c
 The authors use a logistic regression model to examine whether auditors’ awareness of SEC enforcement activities affects the likelihood of issuing first-time going-concern reports:
 
 $$
-\text{METR} = \alpha_0 + \alpha_1 \text{LG} + \alpha_2 \text{POST2002} + \alpha_3 (\text{LG} \times \text{POST2002}) + \alpha_4 \Delta \text{ATR} + \alpha_5 \text{LEV} + \alpha_6 \text{SIZE} + \alpha_7 \text{SINTS} + \alpha_8 \text{ROA} + \alpha_9 \text{RIGHTS} + \alpha_{10} \text{AGE} + \alpha_{11} \text{GROWTH} + \alpha_{12} \text{DEFICIT} + \alpha_{13} \text{GDP} + \epsilon
+\text{Prob}(GoingConcern) = \alpha + \beta_1 \text{Auditor Proximity} + \beta_2 \text{Auditor AAER}_{t-1} + \beta_3 \text{Non-Auditor AAER}_{t-1} + \gamma X + \text{Fixed Effects} + \varepsilon
 $$
 
 
